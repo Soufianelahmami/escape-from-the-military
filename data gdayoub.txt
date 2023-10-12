@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NjTp1.webp",
+            "title": "escape from the military 1",
+            "text_Content_": "A high-security military base with multiple layers of defense, surrounded by dense forests and rugged terrain. The player is an individual with classified information and must escape the military compound without being captured."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NjIkP.webp",
+            "title": "escape from the military 2",
+            "text_Content_": "The player has accidentally obtained sensitive information that could expose government secrets. Realizing the danger, they decide to escape the military base where they were initially held captive."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NjzYB.webp",
+            "title": "escape from the military 3",
+            "text_Content_": "Sneak through guard patrols, avoiding security cameras and motion sensors."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3Njx2V.webp",
+            "title": "escape from the military 4",
+            "text_Content_": "Utilize shadows, cover, and environmental objects for stealth."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NjCEx.webp",
+            "title": "escape from the military 5",
+            "text_Content_": "Find and use military uniforms or disguise kits to blend in."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3NjnrQ.webp",
+            "title": "escape from the military 6",
+            "text_Content_": "Create distractions to divert attention away from critical areas."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3wj9Fp.webp",
+            "title": "escape from the military 7",
+            "text_Content_": "Gather additional information that can be used to manipulate the situation."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3whpPR.webp",
+            "title": "escape from the military 8",
+            "text_Content_": "Access computer terminals for maps, security codes, and other valuable data."
         }
     ]
 }
